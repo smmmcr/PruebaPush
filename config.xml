@@ -3,19 +3,12 @@
         xmlns:gap = 'http://phonegap.com/ns/1.0'
         id        = "org.devgirl.pgb-push-app2"
         version   = "0.0.1">
-    <name>Push Plugin Sample</name>
+    <name>Push Plugin Prueba</name>
 
-    <description>
-        Push Plugin Sample for PhoneGap Build
-    </description>
-
-    <author href="http://devgirl.org" email="hschinsk@adobe.com">
-        Holly Schinsky
-    </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version" value="2.2.0" />
+    <preference name="phonegap-version" value="2.7.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
